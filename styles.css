@@ -1,0 +1,85 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  color: black;
+}
+main {
+  max-width: 800px;
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 20px;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  width: 150px;
+  text-align: right;
+}
+th {
+  text-align: left;
+}
+td[data-value="24"] {
+  background-color:#fd6700;
+  opacity: 1;
+}
+td[data-value="22"] {
+  background-color:#ff7311;
+  opacity: 1;
+}
+td[data-value="20"] {
+  background-color:#fd7f2b;
+  opacity: 1;
+}
+td[data-value="16"] {
+  background-color:#fe9955;
+  opacity: 1;
+}
+td[data-value="14"] {
+  background-color:#ffa567;
+  opacity: 1;
+}
+td[data-value="12"] {
+  background-color:#fdb082;
+  opacity: 1;
+}
+td[data-value="10"] {
+  background-color:#ffbd90;
+  opacity: 1;
+}
+td[data-value="8"] {
+  background-color:#fdcbaa;
+  opacity: 1;
+}
+td[data-value="7"] {
+  background-color:#fdd1b6;
+  opacity: 1;
+}
+td[data-value="6"] {
+  background-color:#fed5be;
+  opacity: 1;
+}
+td[data-value="5"] {
+  background-color:#feddc6;
+  opacity: 1;
+}
+td[data-value="4"] {
+  background-color:#fde2d7;
+  opacity: 1;
+}
+td[data-value="3"] {
+  background-color:#fee8e2;
+  opacity: 1;
+}
+td[data-value="2"] {
+  background-color:#fbf0ea;
+  opacity: 1;
+}
+td[data-value="1"] {
+  background-color:#fcf6f6;
+  opacity: 1;
+}
+td[data-value="0"] {
+  background-color:#fcfcfe;
+  opacity: 1;
+}
